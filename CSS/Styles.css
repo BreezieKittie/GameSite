@@ -1,0 +1,28 @@
+body {
+  background-color: #f1d1d0;
+}
+
+
+hr {
+  border-style: none;
+  border-top: 10px dotted black;
+  background-color: transparent;
+  width: 5%;
+}
+
+h3
+  {
+    color: #f0a500;
+  }
+h1
+{
+  color: #f25287;
+}
+
+nav {
+  color: #f0a500;
+}
+nav a:visited
+{
+  color: #f0a500;
+}
